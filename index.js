@@ -117,7 +117,7 @@ function showResult(count) {
 }
 // creates a timer for each question on its own
 function timer() {
-  let timeCount = 7;
+  let timeCount = 30;
   const time = setInterval(() => {
     timeCount--;
     clock.innerText = timeCount + "s";
