@@ -1,0 +1,84 @@
+[
+  {
+    "title": "What is the new line tag?",
+    "answer_1": "<h1>",
+    "answer_2": "<hr>",
+    "answer_3": "<input>",
+    "answer_4": "<br>",
+    "answer": "<br>"
+  },
+
+  {
+    "title": "Which tag is used to define a hyperlink?",
+    "answer_1": "<img>",
+    "answer_2": "<a>",
+    "answer_3": "<div>",
+    "answer_4": "<span>",
+    "answer": "<a>"
+  },
+  {
+    "title": "Which tag is used to create an unordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<dl>",
+    "answer": "<ul>"
+  },
+  {
+    "title": "What does the HTML acronym stand for?",
+    "answer_1": "HyperText Markup Language",
+    "answer_2": "High Text Main Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Home Tool Markup Language",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "title": "Which tag is used to define the main content of an HTML document?",
+    "answer_1": "<header>",
+    "answer_2": "<section>",
+    "answer_3": "<nav>",
+    "answer_4": "<main>",
+    "answer": "<main>"
+  },
+
+  {
+    "title": "What does the HTML acronym stand for?",
+    "answer_1": "HyperText Markup Language",
+    "answer_2": "High Text Main Language",
+    "answer_3": "Hyperlinks and Text Markup Language",
+    "answer_4": "Home Tool Markup Language",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "title": "Which tag is used to define the main content of an HTML document?",
+    "answer_1": "<header>",
+    "answer_2": "<section>",
+    "answer_3": "<nav>",
+    "answer_4": "<main>",
+    "answer": "<main>"
+  },
+  {
+    "title": "Which tag is used to display an image in HTML?",
+    "answer_1": "<image>",
+    "answer_2": "<img>",
+    "answer_3": "<src>",
+    "answer_4": "<picture>",
+    "answer": "<img>"
+  },
+  {
+    "title": "Which tag is used to define a section within an HTML document?",
+    "answer_1": "<div>",
+    "answer_2": "<span>",
+    "answer_3": "<section>",
+    "answer_4": "<article>",
+    "answer": "<section>"
+  },
+  {
+    "title": "Which tag is used to emphasize text in HTML?",
+    "answer_1": "<strong>",
+    "answer_2": "<em>",
+    "answer_3": "<italic>",
+    "answer_4": "<bold>",
+    "answer": "<em>"
+  }
+]
